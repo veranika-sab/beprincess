@@ -905,6 +905,9 @@ form.news-letter .btn:hover{
 #footer-section p a{
 	color: #3498db;
 }
+#nowrap span{
+	white-space: nowrap;
+}
 /* 8 - Footer Section End 
 ---------------------------------------------------------------------- */
 
